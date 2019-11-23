@@ -1,0 +1,82 @@
+Change Component Footprint: Designator=P4 Old Footprint=HDR2X8 New Footprint=HDR1X2
+Change Component Footprint: Designator=P5 Old Footprint=HDR2X8 New Footprint=HDR1X4
+Change Component Comment : Designator=P4 Old Comment=Header 8X2 New Comment=CAN
+Change Component Comment : Designator=P5 Old Comment=Header 8X2 New Comment=SPI1
+Added Component: Designator=P6(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P7(HDR1X6)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P8(HDR1X4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P9(HDR1X4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CAN_TX Pin=P4-1
+Added Pin To Net: NetName=CAN_RX Pin=P4-2
+Added Pin To Net: NetName=SPI1_MOSI Pin=P5-1
+Added Pin To Net: NetName=SPI1_MISO Pin=P5-2
+Added Pin To Net: NetName=SPI1_SCK Pin=P5-3
+Added Pin To Net: NetName=SPI1_NSS Pin=P5-4
+Added Pin To Net: NetName=I2C2_SDA Pin=P6-1
+Added Pin To Net: NetName=I2C2_SCL Pin=P6-2
+Added Pin To Net: NetName=ADC12_IN15 Pin=P7-1
+Added Pin To Net: NetName=ADC12_IN14 Pin=P7-2
+Added Pin To Net: NetName=ADC12_IN13 Pin=P7-3
+Added Pin To Net: NetName=ADC12_IN12 Pin=P7-4
+Added Pin To Net: NetName=ADC12_IN11 Pin=P7-5
+Added Pin To Net: NetName=ADC12_IN10 Pin=P7-6
+Added Pin To Net: NetName=SPI2_MOSI Pin=P8-1
+Added Pin To Net: NetName=SPI2_MISO Pin=P8-2
+Added Pin To Net: NetName=SPI2_SCK Pin=P8-3
+Added Pin To Net: NetName=SPI2_NSS Pin=P8-4
+Added Pin To Net: NetName=UART2_RX Pin=P9-1
+Added Pin To Net: NetName=UART2_TX Pin=P9-2
+Added Pin To Net: NetName=UART2_RTS Pin=P9-3
+Added Pin To Net: NetName=UART2_CTS Pin=P9-4
+Change Net Name : Old Net Name=PA0 New Net Name=GPIO0
+Change Net Name : Old Net Name=PA1 New Net Name=GPIO1
+Change Net Name : Old Net Name=PA2 New Net Name=GPIO2
+Change Net Name : Old Net Name=PA3 New Net Name=GPIO3
+Change Net Name : Old Net Name=PA4 New Net Name=GPIO4
+Change Net Name : Old Net Name=PA5 New Net Name=GPIO5
+Change Net Name : Old Net Name=PA6 New Net Name=GPIO6
+Change Net Name : Old Net Name=PA7 New Net Name=GPIO7
+Change Net Name : Old Net Name=PA8 New Net Name=GPIO0
+Change Net Name : Old Net Name=PA9 New Net Name=GPIO9
+Change Net Name : Old Net Name=PA10 New Net Name=GPIO10
+Change Net Name : Old Net Name=PA11 New Net Name=GPIO11
+Change Net Name : Old Net Name=PA12 New Net Name=GPIO12
+Change Net Name : Old Net Name=PA13 New Net Name=GPIO13
+Change Net Name : Old Net Name=PA14 New Net Name=GPIO14
+Change Net Name : Old Net Name=PA15 New Net Name=GPIO1
+Change Net Name : Old Net Name=PB0 New Net Name=GPIO10
+Change Net Name : Old Net Name=PB1 New Net Name=GPIO11
+Change Net Name : Old Net Name=PB3 New Net Name=GPIO12
+Change Net Name : Old Net Name=PB4 New Net Name=GPIO13
+Change Net Name : Old Net Name=PB5 New Net Name=GPIO14
+Change Net Name : Old Net Name=PB6 New Net Name=GPIO15
+Change Net Name : Old Net Name=PB7 New Net Name=GPIO16
+Change Net Name : Old Net Name=PC6 New Net Name=GPIO2
+Change Net Name : Old Net Name=PC7 New Net Name=GPIO3
+Change Net Name : Old Net Name=PC8 New Net Name=GPIO4
+Change Net Name : Old Net Name=PC9 New Net Name=GPIO5
+Change Net Name : Old Net Name=PC10 New Net Name=GPIO6
+Change Net Name : Old Net Name=PC11 New Net Name=GPIO7
+Change Net Name : Old Net Name=PC12 New Net Name=GPIO8
+Change Net Name : Old Net Name=PC13 New Net Name=GPIO9
+Added Class: Name=GPIO[16..0]
+Added Member To Class: ClassName=U_Con_Dev Member=Component P6 I2C
+Added Member To Class: ClassName=U_Con_Dev Member=Component P7 ADC
+Added Member To Class: ClassName=U_Con_Dev Member=Component P8 SPI2
+Added Member To Class: ClassName=U_Con_Dev Member=Component P9 UART

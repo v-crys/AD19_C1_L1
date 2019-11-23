@@ -1,0 +1,38 @@
+Removed Member From Class: ClassName=PC[15..0] Member=ADC12_IN10
+Removed Member From Class: ClassName=PC[15..0] Member=ADC12_IN11
+Removed Member From Class: ClassName=PC[15..0] Member=ADC12_IN12
+Removed Member From Class: ClassName=PC[15..0] Member=ADC12_IN13
+Removed Member From Class: ClassName=PC[15..0] Member=ADC12_IN14
+Removed Member From Class: ClassName=PC[15..0] Member=ADC12_IN15
+Removed Member From Class: ClassName=PB[15..0] Member=CAN_RX
+Removed Member From Class: ClassName=PB[15..0] Member=CAN_TX
+Removed Member From Class: ClassName=PB[15..0] Member=I2C2_SCL
+Removed Member From Class: ClassName=PB[15..0] Member=I2C2_SDA
+Removed Member From Class: ClassName=PA[15..0] Member=SPI1_MISO
+Removed Member From Class: ClassName=PA[15..0] Member=SPI1_MOSI
+Removed Member From Class: ClassName=PA[15..0] Member=SPI1_NSS
+Removed Member From Class: ClassName=PA[15..0] Member=SPI1_SCK
+Removed Member From Class: ClassName=PB[15..0] Member=SPI2_MISO
+Removed Member From Class: ClassName=PA[15..0] Member=UART2_CTS
+Removed Member From Class: ClassName=PA[15..0] Member=UART2_RTS
+Removed Member From Class: ClassName=PA[15..0] Member=UART2_RX
+Removed Member From Class: ClassName=PA[15..0] Member=UART2_TX
+Added Member To Class: ClassName=PA[15..0] Member=Element[0]: PA
+Added Member To Class: ClassName=PA[15..0] Member=Element[1]: PA
+Added Member To Class: ClassName=PA[15..0] Member=Element[2]: PA
+Added Member To Class: ClassName=PA[15..0] Member=Element[3]: PA
+Added Member To Class: ClassName=PA[15..0] Member=Element[4]: PA
+Added Member To Class: ClassName=PA[15..0] Member=Element[5]: PA
+Added Member To Class: ClassName=PA[15..0] Member=Element[6]: PA
+Added Member To Class: ClassName=PA[15..0] Member=Element[7]: PA
+Added Member To Class: ClassName=PB[15..0] Member=Element[8]: PB
+Added Member To Class: ClassName=PB[15..0] Member=Element[9]: PB
+Added Member To Class: ClassName=PB[15..0] Member=Element[10]: PB
+Added Member To Class: ClassName=PB[15..0] Member=Element[11]: PB
+Added Member To Class: ClassName=PB[15..0] Member=Element[14]: PB
+Added Member To Class: ClassName=PC[15..0] Member=Element[0]: PC
+Added Member To Class: ClassName=PC[15..0] Member=Element[1]: PC
+Added Member To Class: ClassName=PC[15..0] Member=Element[2]: PC
+Added Member To Class: ClassName=PC[15..0] Member=Element[3]: PC
+Added Member To Class: ClassName=PC[15..0] Member=Element[4]: PC
+Added Member To Class: ClassName=PC[15..0] Member=Element[5]: PC

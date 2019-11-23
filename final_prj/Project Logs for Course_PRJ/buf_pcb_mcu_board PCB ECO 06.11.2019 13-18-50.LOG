@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=BTN1 Pin=P2-1
+Removed Pin From Net: NetName=BTN3 Pin=P2-3
+Removed Pin From Net: NetName=BTN2 Pin=P2-4
+Removed Pin From Net: NetName=BTN4 Pin=P3-1
+Removed Pin From Net: NetName=BTN5 Pin=P3-2
+Removed Pin From Net: NetName=BTN6 Pin=P3-3
+Removed Pin From Net: NetName=BTN7 Pin=P3-4
+Removed Pin From Net: NetName=BTN7 Pin=U2-37
+Removed Pin From Net: NetName=BTN6 Pin=U2-38
+Removed Pin From Net: NetName=BTN5 Pin=U2-39
+Removed Pin From Net: NetName=BTN4 Pin=U2-40
+Removed Pin From Net: NetName=BTN1 Pin=U2-52
+Removed Pin From Net: NetName=BTN2 Pin=U2-53
+Removed Pin From Net: NetName=BTN3 Pin=U2-55
+Removed Member From Class: ClassName=BTN[8..1] Member=BTN0
+Added Pin To Net: NetName=BTN2 Pin=P2-1
+Added Pin To Net: NetName=BTN1 Pin=P2-2
+Added Pin To Net: NetName=BTN4 Pin=P2-3
+Added Pin To Net: NetName=BTN3 Pin=P2-4
+Added Pin To Net: NetName=BTN5 Pin=P3-1
+Added Pin To Net: NetName=BTN6 Pin=P3-2
+Added Pin To Net: NetName=BTN7 Pin=P3-3
+Added Pin To Net: NetName=BTN8 Pin=P3-4
+Added Pin To Net: NetName=BTN8 Pin=U2-37
+Added Pin To Net: NetName=BTN7 Pin=U2-38
+Added Pin To Net: NetName=BTN6 Pin=U2-39
+Added Pin To Net: NetName=BTN5 Pin=U2-40
+Added Pin To Net: NetName=BTN1 Pin=U2-51
+Added Pin To Net: NetName=BTN2 Pin=U2-52
+Added Pin To Net: NetName=BTN3 Pin=U2-53
+Added Pin To Net: NetName=BTN4 Pin=U2-55
+Added Member To Class: ClassName=U_Con_Dev Member=Component P4 (P6) CAN
+Added Member To Class: ClassName=U_Con_Dev Member=Component P5 (P7) SPI1

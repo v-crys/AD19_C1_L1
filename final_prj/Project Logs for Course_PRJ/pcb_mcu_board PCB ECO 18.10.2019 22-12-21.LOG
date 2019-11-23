@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=PB4 Pin=R10_U_Con_Dev_Btn1-2
+Removed Pin From Net: NetName=PB4 Pin=R10_U_Con_Dev_Btn2-2
+Removed Pin From Net: NetName=PB5 Pin=R11_U_Con_Dev_Btn1-2
+Removed Pin From Net: NetName=PB5 Pin=R11_U_Con_Dev_Btn2-2
+Removed Pin From Net: NetName=PB6 Pin=R12_U_Con_Dev_Btn1-2
+Removed Pin From Net: NetName=PB6 Pin=R12_U_Con_Dev_Btn2-2
+Removed Pin From Net: NetName=PB7 Pin=R13_U_Con_Dev_Btn1-2
+Removed Pin From Net: NetName=PB7 Pin=R13_U_Con_Dev_Btn2-2
+Added Pin To Net: NetName=BTN0_U_Con_Dev_Btn1 Pin=R10_U_Con_Dev_Btn1-2
+Added Net: Name=BTN0_U_Con_Dev_Btn1
+Added Pin To Net: NetName=BTN0_U_Con_Dev_Btn2 Pin=R10_U_Con_Dev_Btn2-2
+Added Net: Name=BTN0_U_Con_Dev_Btn2
+Added Pin To Net: NetName=BTN1_U_Con_Dev_Btn1 Pin=R11_U_Con_Dev_Btn1-2
+Added Net: Name=BTN1_U_Con_Dev_Btn1
+Added Pin To Net: NetName=BTN1_U_Con_Dev_Btn2 Pin=R11_U_Con_Dev_Btn2-2
+Added Net: Name=BTN1_U_Con_Dev_Btn2
+Added Pin To Net: NetName=BTN2_U_Con_Dev_Btn1 Pin=R12_U_Con_Dev_Btn1-2
+Added Net: Name=BTN2_U_Con_Dev_Btn1
+Added Pin To Net: NetName=BTN2_U_Con_Dev_Btn2 Pin=R12_U_Con_Dev_Btn2-2
+Added Net: Name=BTN2_U_Con_Dev_Btn2
+Added Pin To Net: NetName=BTN3_U_Con_Dev_Btn1 Pin=R13_U_Con_Dev_Btn1-2
+Added Net: Name=BTN3_U_Con_Dev_Btn1
+Added Pin To Net: NetName=BTN3_U_Con_Dev_Btn2 Pin=R13_U_Con_Dev_Btn2-2
+Added Net: Name=BTN3_U_Con_Dev_Btn2

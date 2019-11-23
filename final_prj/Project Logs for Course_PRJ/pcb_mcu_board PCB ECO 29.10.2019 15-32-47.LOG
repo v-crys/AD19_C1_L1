@@ -1,0 +1,42 @@
+Change Component Designator: OldDesignator=D5 NewDesignator=D2
+Change Component Designator: OldDesignator=P4 NewDesignator=P10
+Change Component Designator: OldDesignator=P5 NewDesignator=P11
+Change Component Designator: OldDesignator=R1 NewDesignator=R6
+Change Component Designator: OldDesignator=R7_U_Con_Dev_Btn1 NewDesignator=R8
+Change Component Designator: OldDesignator=R7_U_Con_Dev_Btn2 NewDesignator=R10
+Change Component Designator: OldDesignator=R7_U_Con_Dev_Btn3 NewDesignator=R12
+Change Component Designator: OldDesignator=R7_U_Con_Dev_Btn4 NewDesignator=R14
+Change Component Designator: OldDesignator=R7_U_Con_Dev_Btn5 NewDesignator=R16
+Change Component Designator: OldDesignator=R7_U_Con_Dev_Btn6 NewDesignator=R18
+Change Component Designator: OldDesignator=R7_U_Con_Dev_Btn7 NewDesignator=R20
+Change Component Designator: OldDesignator=R7_U_Con_Dev_Btn8 NewDesignator=R22
+Change Component Designator: OldDesignator=R8_U_Con_Dev_Btn1 NewDesignator=R9
+Change Component Designator: OldDesignator=R8_U_Con_Dev_Btn2 NewDesignator=R11
+Change Component Designator: OldDesignator=R8_U_Con_Dev_Btn3 NewDesignator=R13
+Change Component Designator: OldDesignator=R8_U_Con_Dev_Btn4 NewDesignator=R15
+Change Component Designator: OldDesignator=R8_U_Con_Dev_Btn5 NewDesignator=R17
+Change Component Designator: OldDesignator=R8_U_Con_Dev_Btn6 NewDesignator=R19
+Change Component Designator: OldDesignator=R8_U_Con_Dev_Btn7 NewDesignator=R21
+Change Component Designator: OldDesignator=R8_U_Con_Dev_Btn8 NewDesignator=R23
+Change Component Designator: OldDesignator=R13 NewDesignator=R7
+Change Component Designator: OldDesignator=SW2_U_Con_Dev_Btn1 NewDesignator=SW2
+Change Component Designator: OldDesignator=SW2_U_Con_Dev_Btn2 NewDesignator=SW3
+Change Component Designator: OldDesignator=SW2_U_Con_Dev_Btn3 NewDesignator=SW4
+Change Component Designator: OldDesignator=SW2_U_Con_Dev_Btn4 NewDesignator=SW5
+Change Component Designator: OldDesignator=SW2_U_Con_Dev_Btn5 NewDesignator=SW6
+Change Component Designator: OldDesignator=SW2_U_Con_Dev_Btn6 NewDesignator=SW7
+Change Component Designator: OldDesignator=SW2_U_Con_Dev_Btn7 NewDesignator=SW8
+Change Component Designator: OldDesignator=SW2_U_Con_Dev_Btn8 NewDesignator=SW9
+Change Net Name : Old Net Name=NetD5_1 New Net Name=NetD2_1
+Change Net Name : Old Net Name=NetR1_1 New Net Name=NetR6_1
+Change Net Name : Old Net Name=NetR7_U_Con_Dev_Btn1_2 New Net Name=NetR8_2
+Change Net Name : Old Net Name=NetR7_U_Con_Dev_Btn2_2 New Net Name=NetR10_2
+Change Net Name : Old Net Name=NetR7_U_Con_Dev_Btn3_2 New Net Name=NetR12_2
+Change Net Name : Old Net Name=NetR7_U_Con_Dev_Btn4_2 New Net Name=NetR14_2
+Change Net Name : Old Net Name=NetR7_U_Con_Dev_Btn5_2 New Net Name=NetR16_2
+Change Net Name : Old Net Name=NetR7_U_Con_Dev_Btn6_2 New Net Name=NetR18_2
+Change Net Name : Old Net Name=NetR7_U_Con_Dev_Btn7_2 New Net Name=NetR20_2
+Change Net Name : Old Net Name=NetR7_U_Con_Dev_Btn8_2 New Net Name=NetR22_2
+Added Member To Class: ClassName=U_Con_Dev Member=Component P10 (P4) Header 8X2
+Added Member To Class: ClassName=U_Con_Dev Member=Component P11 (P5) Header 7X2
+Added Member To Class: ClassName=Designator Member=Component R6 (R1) Res2

@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=PC8 Pin=P4-9
+Removed Pin From Net: NetName=PC9 Pin=P4-10
+Removed Pin From Net: NetName=PB8 Pin=P5-9
+Removed Pin From Net: NetName=PB9 Pin=P5-10
+Added Pin To Net: NetName=PB9 Pin=P4-9
+Added Pin To Net: NetName=PB8 Pin=P4-10
+Added Pin To Net: NetName=PC8 Pin=P5-9
+Added Pin To Net: NetName=PC9 Pin=P5-10
+Added Member To Class: ClassName=U_Con_Dev Member=Component P4 (P6) CAN
+Added Member To Class: ClassName=U_Con_Dev Member=Component P4 Header 7X2
+Added Member To Class: ClassName=U_Con_Dev Member=Component P5 (P7) SPI1

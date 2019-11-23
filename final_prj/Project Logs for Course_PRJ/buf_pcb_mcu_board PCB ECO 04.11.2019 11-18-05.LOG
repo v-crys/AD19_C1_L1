@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=PC5 Pin=P5-5
+Removed Pin From Net: NetName=PB15 Pin=P5-7
+Removed Pin From Net: NetName=PB0 Pin=P5-8
+Removed Pin From Net: NetName=PB1 Pin=P5-10
+Removed Pin From Net: NetName=PB12 Pin=P5-13
+Removed Pin From Net: NetName=PB13 Pin=P5-14
+Removed Pin From Net: NetName=PB14 Pin=P5-15
+Added Pin To Net: NetName=PB15 Pin=P5-5
+Added Pin To Net: NetName=PB13 Pin=P5-7
+Added Pin To Net: NetName=PB14 Pin=P5-8
+Added Pin To Net: NetName=PB12 Pin=P5-10
+Added Pin To Net: NetName=PC5 Pin=P5-13
+Added Pin To Net: NetName=PB1 Pin=P5-14
+Added Pin To Net: NetName=PB0 Pin=P5-15
+Added Member To Class: ClassName=U_Con_Dev Member=Component P4 (P6) CAN
+Added Member To Class: ClassName=U_Con_Dev Member=Component P5 (P7) SPI1

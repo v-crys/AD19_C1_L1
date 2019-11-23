@@ -1,0 +1,14 @@
+Added Component: Designator=SW2(430451025836)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/4304x1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "430451025836"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "430451025836"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RST Pin=SW2-1
+Added Pin To Net: NetName=RST Pin=SW2-2
+Added Pin To Net: NetName=GND Pin=SW2-3
+Added Pin To Net: NetName=GND Pin=SW2-4
+Added Member To Class: ClassName=Designator Member=Component SW2 IT-1102WA8-160G-G

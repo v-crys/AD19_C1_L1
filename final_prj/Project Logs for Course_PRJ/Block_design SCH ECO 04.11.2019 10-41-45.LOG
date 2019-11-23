@@ -1,0 +1,6 @@
+Add Pin To Net: Pin=P5-1 Old Net=PC New Net=PC0
+Add Pin To Net: Pin=P5-2 Old Net=PC New Net=PC1
+Add Pin To Net: Pin=P5-3 Old Net=PC New Net=PC2
+Change Pin Designator/Name:  Old Designator=P5-1 Old Name=1 New Designator =11 New Name=11
+Change Pin Designator/Name:  Old Designator=P5-2 Old Name=2 New Designator =12 New Name=12
+Change Pin Designator/Name:  Old Designator=P5-3 Old Name=3 New Designator =13 New Name=13

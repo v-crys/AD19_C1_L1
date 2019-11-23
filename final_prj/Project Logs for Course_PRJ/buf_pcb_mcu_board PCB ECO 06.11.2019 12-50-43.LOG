@@ -1,0 +1,65 @@
+Removed Pin From Net: NetName=PB12 Pin=Q1-1
+Removed Pin From Net: NetName=PB13 Pin=Q2-1
+Removed Pin From Net: NetName=PB14 Pin=Q3-1
+Removed Pin From Net: NetName=PB15 Pin=Q4-1
+Removed Pin From Net: NetName=PB8 Pin=Q5-1
+Removed Pin From Net: NetName=PB9 Pin=Q6-1
+Removed Pin From Net: NetName=PB10 Pin=Q7-1
+Removed Pin From Net: NetName=PB11 Pin=Q8-1
+Removed Pin From Net: NetName=PB1 Pin=R17-2
+Removed Pin From Net: NetName=PB2 Pin=R19-2
+Removed Pin From Net: NetName=PB3 Pin=R21-2
+Removed Pin From Net: NetName=PB4 Pin=R23-2
+Removed Pin From Net: NetName=PB5 Pin=R25-2
+Removed Pin From Net: NetName=PB6 Pin=R27-2
+Removed Pin From Net: NetName=PB7 Pin=R29-2
+Removed Pin From Net: NetName=PB8 Pin=R31-2
+Removed Member From Class: ClassName=PC[13..0] Member=PC6
+Removed Member From Class: ClassName=PC[13..0] Member=PC7
+Removed Member From Class: ClassName=PC[13..0] Member=PC8
+Removed Member From Class: ClassName=PC[13..0] Member=PC9
+Added Pin To Net: NetName=BTN1 Pin=R17-2
+Added Net: Name=BTN1
+Added Pin To Net: NetName=BTN2 Pin=R19-2
+Added Net: Name=BTN2
+Added Pin To Net: NetName=BTN3 Pin=R21-2
+Added Net: Name=BTN3
+Added Pin To Net: NetName=BTN4 Pin=P5-1
+Added Pin To Net: NetName=BTN4 Pin=R23-2
+Added Pin To Net: NetName=BTN4 Pin=U2-40
+Added Net: Name=BTN4
+Added Pin To Net: NetName=BTN5 Pin=P5-2
+Added Pin To Net: NetName=BTN5 Pin=R25-2
+Added Pin To Net: NetName=BTN5 Pin=U2-39
+Added Net: Name=BTN5
+Added Pin To Net: NetName=BTN6 Pin=P5-3
+Added Pin To Net: NetName=BTN6 Pin=R27-2
+Added Pin To Net: NetName=BTN6 Pin=U2-38
+Added Net: Name=BTN6
+Added Pin To Net: NetName=BTN7 Pin=P5-4
+Added Pin To Net: NetName=BTN7 Pin=R29-2
+Added Pin To Net: NetName=BTN7 Pin=U2-37
+Added Net: Name=BTN7
+Added Pin To Net: NetName=BTN8 Pin=R31-2
+Added Net: Name=BTN8
+Added Pin To Net: NetName=LED0 Pin=Q5-1
+Added Net: Name=LED0
+Added Pin To Net: NetName=LED1 Pin=Q6-1
+Added Net: Name=LED1
+Added Pin To Net: NetName=LED2 Pin=Q7-1
+Added Net: Name=LED2
+Added Pin To Net: NetName=LED3 Pin=Q8-1
+Added Net: Name=LED3
+Added Pin To Net: NetName=LED4 Pin=Q1-1
+Added Net: Name=LED4
+Added Pin To Net: NetName=LED5 Pin=Q2-1
+Added Net: Name=LED5
+Added Pin To Net: NetName=LED6 Pin=Q3-1
+Added Net: Name=LED6
+Added Pin To Net: NetName=LED7 Pin=Q4-1
+Added Net: Name=LED7
+Added Class: Name=BTN[7..0]
+Added Class: Name=LED[7..0]
+Added Member To Class: ClassName=U_Con_Dev Member=Component P4 (P6) CAN
+Added Member To Class: ClassName=U_Con_Dev Member=Component P5 (P7) SPI1
+Added Member To Class: ClassName=U_Con_Dev Member=Component P8 (P10) SPI2

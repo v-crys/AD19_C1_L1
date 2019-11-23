@@ -1,0 +1,18 @@
+Change Component Comment : Designator=U3 Old Comment=AMS1117-3.3 New Comment=AMS1117
+Change Net Name : Old Net Name=GPIO0 New Net Name=MCU_GPIO0
+Change Net Name : Old Net Name=GPIO1 New Net Name=MCU_GPIO1
+Change Net Name : Old Net Name=GPIO2 New Net Name=MCU_GPIO2
+Change Net Name : Old Net Name=GPIO3 New Net Name=MCU_GPIO3
+Change Net Name : Old Net Name=GPIO4 New Net Name=MCU_GPIO4
+Change Net Name : Old Net Name=GPIO5 New Net Name=MCU_GPIO5
+Change Net Name : Old Net Name=GPIO6 New Net Name=MCU_GPIO6
+Change Net Name : Old Net Name=GPIO7 New Net Name=MCU_GPIO7
+Change Net Name : Old Net Name=GPIO8 New Net Name=MCU_GPIO8
+Change Net Name : Old Net Name=GPIO9 New Net Name=MCU_GPIO9
+Change Net Name : Old Net Name=GPIO10 New Net Name=MCU_GPIO10
+Change Net Name : Old Net Name=GPIO11 New Net Name=MCU_GPIO11
+Change Net Name : Old Net Name=GPIO12 New Net Name=MCU_GPIO12
+Change Net Name : Old Net Name=GPIO13 New Net Name=MCU_GPIO13
+Change Net Name : Old Net Name=GPIO14 New Net Name=MCU_GPIO14
+Change Net Name : Old Net Name=GPIO15 New Net Name=MCU_GPIO15
+Change Net Name : Old Net Name=GPIO16 New Net Name=MCU_GPIO16

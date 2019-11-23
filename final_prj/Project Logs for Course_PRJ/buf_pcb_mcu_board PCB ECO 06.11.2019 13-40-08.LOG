@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=LED7 Pin=P1-9
+Removed Pin From Net: NetName=LED4 Pin=Q1-1
+Removed Pin From Net: NetName=LED5 Pin=Q2-1
+Removed Pin From Net: NetName=LED6 Pin=Q3-1
+Removed Pin From Net: NetName=LED7 Pin=U2-41
+Removed Member From Class: ClassName=PA[8..0] Member=PA0
+Removed Member From Class: ClassName=PA[8..0] Member=PA4
+Added Pin To Net: NetName=LED2 Pin=P1-9
+Added Pin To Net: NetName=PA0 Pin=Q5-1
+Added Pin To Net: NetName=LED6 Pin=Q6-1
+Added Pin To Net: NetName=PA4 Pin=Q8-1
+Added Pin To Net: NetName=LED2 Pin=U2-41
+Change Net Name : Old Net Name=LED4 New Net Name=PA5
+Change Net Name : Old Net Name=LED5 New Net Name=PA6
+Change Net Name : Old Net Name=LED6 New Net Name=LED1
+Change Net Name : Old Net Name=PA0 New Net Name=LED0
+Change Net Name : Old Net Name=PA4 New Net Name=LED3
+Added Pin To Net: NetName=LED4 Pin=Q1-1
+Added Net: Name=LED4
+Added Pin To Net: NetName=LED5 Pin=Q2-1
+Added Net: Name=LED5
+Added Pin To Net: NetName=LED6 Pin=Q3-1
+Added Net: Name=LED6
+Added Member To Class: ClassName=LED[7..0] Member=Element[4]: LED0_U_Con_Dev_Led1
+Added Member To Class: ClassName=LED[7..0] Member=Element[5]: LED1_U_Con_Dev_Led1
+Added Member To Class: ClassName=LED[7..0] Member=Element[6]: LED2_U_Con_Dev_Led1
+Added Member To Class: ClassName=PA[8..0] Member=Element[5]: PA
+Added Member To Class: ClassName=PA[8..0] Member=Element[6]: PA

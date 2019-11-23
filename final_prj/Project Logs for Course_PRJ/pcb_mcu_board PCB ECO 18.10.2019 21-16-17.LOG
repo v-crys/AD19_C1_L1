@@ -1,0 +1,66 @@
+Change Net Name : Old Net Name=MCU_GPIO16 New Net Name=GPIO16
+Added Pin To Net: NetName=GPIO0 Pin=R10_U_Con_Dev_Btn2-2
+Added Pin To Net: NetName=GPIO0 Pin=U1-41
+Added Net: Name=GPIO0
+Added Pin To Net: NetName=GPIO1 Pin=R11_U_Con_Dev_Btn2-2
+Added Pin To Net: NetName=GPIO1 Pin=U1-50
+Added Net: Name=GPIO1
+Added Pin To Net: NetName=GPIO2 Pin=R12_U_Con_Dev_Btn2-2
+Added Pin To Net: NetName=GPIO2 Pin=U1-37
+Added Net: Name=GPIO2
+Added Pin To Net: NetName=GPIO3 Pin=R13_U_Con_Dev_Btn2-2
+Added Pin To Net: NetName=GPIO3 Pin=U1-38
+Added Net: Name=GPIO3
+Added Pin To Net: NetName=GPIO4 Pin=R10_U_Con_Dev_Btn1-2
+Added Pin To Net: NetName=GPIO4 Pin=U1-39
+Added Net: Name=GPIO4
+Added Pin To Net: NetName=GPIO5 Pin=R11_U_Con_Dev_Btn1-2
+Added Pin To Net: NetName=GPIO5 Pin=U1-40
+Added Net: Name=GPIO5
+Added Pin To Net: NetName=GPIO6 Pin=R12_U_Con_Dev_Btn1-2
+Added Pin To Net: NetName=GPIO6 Pin=U1-51
+Added Net: Name=GPIO6
+Added Pin To Net: NetName=GPIO7 Pin=R13_U_Con_Dev_Btn1-2
+Added Pin To Net: NetName=GPIO7 Pin=U1-52
+Added Net: Name=GPIO7
+Added Pin To Net: NetName=GPIO8 Pin=Q1_U_Con_Dev_Led2-1
+Added Pin To Net: NetName=GPIO8 Pin=U1-53
+Added Net: Name=GPIO8
+Added Pin To Net: NetName=GPIO9 Pin=Q2_U_Con_Dev_Led2-1
+Added Pin To Net: NetName=GPIO9 Pin=U1-2
+Added Net: Name=GPIO9
+Added Pin To Net: NetName=GPIO10 Pin=Q3_U_Con_Dev_Led2-1
+Added Pin To Net: NetName=GPIO10 Pin=U1-26
+Added Net: Name=GPIO10
+Added Pin To Net: NetName=GPIO11 Pin=Q4_U_Con_Dev_Led2-1
+Added Pin To Net: NetName=GPIO11 Pin=U1-27
+Added Net: Name=GPIO11
+Added Pin To Net: NetName=GPIO12 Pin=Q1_U_Con_Dev_Led1-1
+Added Pin To Net: NetName=GPIO12 Pin=U1-55
+Added Net: Name=GPIO12
+Added Pin To Net: NetName=GPIO13 Pin=Q2_U_Con_Dev_Led1-1
+Added Pin To Net: NetName=GPIO13 Pin=U1-56
+Added Net: Name=GPIO13
+Added Pin To Net: NetName=GPIO14 Pin=Q3_U_Con_Dev_Led1-1
+Added Pin To Net: NetName=GPIO14 Pin=U1-57
+Added Net: Name=GPIO14
+Added Pin To Net: NetName=GPIO15 Pin=Q4_U_Con_Dev_Led1-1
+Added Pin To Net: NetName=GPIO15 Pin=U1-58
+Added Net: Name=GPIO15
+Added Member To Class: ClassName=GPIO[16..0] Member=Element[0]: BTN0_U_Con_Dev_Btn2
+Added Member To Class: ClassName=GPIO[16..0] Member=Element[1]: BTN1_U_Con_Dev_Btn2
+Added Member To Class: ClassName=GPIO[16..0] Member=Element[2]: BTN2_U_Con_Dev_Btn2
+Added Member To Class: ClassName=GPIO[16..0] Member=Element[3]: BTN3_U_Con_Dev_Btn2
+Added Member To Class: ClassName=GPIO[16..0] Member=Element[4]: BTN0_U_Con_Dev_Btn1
+Added Member To Class: ClassName=GPIO[16..0] Member=Element[5]: BTN1_U_Con_Dev_Btn1
+Added Member To Class: ClassName=GPIO[16..0] Member=Element[6]: BTN2_U_Con_Dev_Btn1
+Added Member To Class: ClassName=GPIO[16..0] Member=Element[7]: BTN3_U_Con_Dev_Btn1
+Added Member To Class: ClassName=GPIO[16..0] Member=Element[8]: GPIO
+Added Member To Class: ClassName=GPIO[16..0] Member=Element[9]: GPIO
+Added Member To Class: ClassName=GPIO[16..0] Member=Element[10]: GPIO
+Added Member To Class: ClassName=GPIO[16..0] Member=Element[11]: GPIO
+Added Member To Class: ClassName=GPIO[16..0] Member=Element[12]: GPIO
+Added Member To Class: ClassName=GPIO[16..0] Member=Element[13]: GPIO
+Added Member To Class: ClassName=GPIO[16..0] Member=Element[14]: GPIO
+Added Member To Class: ClassName=GPIO[16..0] Member=Element[15]: GPIO
+Added Member To Class: ClassName=GPIO[16..0] Member=Element[16]: GPIO

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=PC13 Pin=P4-11
+Removed Pin From Net: NetName=PC0 Pin=P4-12
+Added Pin To Net: NetName=PC0 Pin=P4-11
+Added Pin To Net: NetName=PC13 Pin=P4-12
+Added Member To Class: ClassName=U_Con_Dev Member=Component P4 (P6) CAN
+Added Member To Class: ClassName=U_Con_Dev Member=Component P5 (P7) SPI1
